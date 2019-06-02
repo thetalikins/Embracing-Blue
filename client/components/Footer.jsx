@@ -10,7 +10,7 @@ export default class Footer extends React.Component {
 				<div className="container .u-margin-top">
 					<div className="content has-text-centered">
 						<p>
-							<strong>Embracing Blue</strong> was built by Priya, Annette, Mark, Theta, Hameet, and Sam.
+							<strong>Embracing Blue</strong> was built by Priya, Annette, Mark, Delta, Hameet, and Sam.
 						</p>
 
 						{/* <a className="button is-link"> */}
