@@ -12,7 +12,7 @@ Some of the technologies used include JavaScript, React, Redux, HTML, CSS, Bulma
 
 Our hopes are to help as many people as possible
 
-Built by Mark, Priya, Theta, Sam, Hameet, and Annette
+Built by Mark, Priya, Delta, Sam, Hameet, and Annette
 
 
 ---
